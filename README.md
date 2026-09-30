@@ -46,7 +46,11 @@
 ### 📁 Projetos
 
 | Projeto | Descrição | Ferramentas |
-em breve...
+### 📁 Projetos
+
+| Projeto | Descrição | Ferramentas |
+|---|---|---|
+| [Análise de Dados — Oficina Mecânica](https://github.com/Aline-Silva-ADS/analise-oficina-power-bi) | Análise de dados e dashboard de uma oficina mecânica, com indicadores de receita, custo, lucro e ocupação. | Power BI · Power Query · DAX · Excel |
 
 ---
 
